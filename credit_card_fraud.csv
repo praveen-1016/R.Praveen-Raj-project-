@@ -1,0 +1,1001 @@
+User_ID,Amount,Location,Time,Device,Fraud
+20191,732.63,London,Morning,Tablet,0
+80702,207.26,Los Angeles,Afternoon,Tablet,0
+77523,3753.13,Los Angeles,Morning,Desktop,0
+12443,459.73,Dubai,Evening,Tablet,0
+61310,4358.96,London,Afternoon,Tablet,0
+49376,4429.93,Moscow,Morning,Desktop,0
+64851,529.76,London,Morning,Tablet,0
+15245,2717.89,New York,Afternoon,Tablet,0
+72960,1242.84,Dubai,Evening,Mobile,0
+84676,1229.72,Tokyo,Morning,Mobile,0
+88666,1918.7,Mumbai,Afternoon,Desktop,0
+17853,2819.83,Dubai,Night,Tablet,1
+59116,3277.57,Mumbai,Morning,Tablet,0
+56441,888.81,Mumbai,Morning,Mobile,0
+35792,871.56,Los Angeles,Afternoon,Desktop,0
+67952,3443.03,Mumbai,Afternoon,Tablet,0
+42090,3177.47,Dubai,Afternoon,Tablet,0
+84836,4160.03,Tokyo,Morning,Tablet,0
+76065,812.39,Tokyo,Morning,Tablet,0
+79079,845.65,New York,Morning,Mobile,0
+90248,960.18,Los Angeles,Afternoon,Desktop,0
+33519,2503.81,New York,Afternoon,Tablet,0
+14150,3051.0,Dubai,Night,Desktop,0
+29367,4585.75,London,Evening,Desktop,0
+10099,4358.01,Dubai,Afternoon,Desktop,0
+90669,1981.83,London,Evening,Tablet,0
+92976,648.73,London,Evening,Tablet,0
+60598,4430.77,New York,Evening,Tablet,0
+63743,4135.39,Los Angeles,Evening,Mobile,0
+91768,1708.23,London,Night,Tablet,0
+31732,2943.66,Mumbai,Night,Tablet,0
+93577,3044.88,London,Morning,Tablet,0
+52113,2908.52,Tokyo,Morning,Desktop,0
+48692,633.15,Tokyo,Night,Desktop,1
+56661,1215.25,New York,Morning,Mobile,0
+47462,1550.35,Moscow,Morning,Mobile,0
+49355,996.29,London,Evening,Tablet,0
+60522,4698.74,London,Night,Mobile,0
+34512,2904.87,Dubai,Morning,Tablet,0
+44091,609.53,New York,Afternoon,Desktop,0
+39294,1706.48,Los Angeles,Afternoon,Mobile,0
+10075,283.0,Tokyo,Morning,Desktop,0
+78185,1251.52,Moscow,Evening,Tablet,0
+69632,3429.22,Tokyo,Evening,Desktop,0
+51742,4242.03,Mumbai,Night,Mobile,0
+15320,3853.96,London,Night,Desktop,0
+89665,3606.77,Mumbai,Morning,Mobile,0
+84284,315.84,Dubai,Evening,Mobile,0
+44256,4415.37,New York,Afternoon,Desktop,0
+24322,4974.52,Dubai,Night,Mobile,0
+69487,982.52,Mumbai,Afternoon,Mobile,0
+93746,2171.91,London,Night,Desktop,0
+89189,3954.21,Tokyo,Morning,Desktop,0
+16345,3166.98,Los Angeles,Night,Mobile,0
+27088,2595.35,Los Angeles,Morning,Mobile,0
+74335,573.38,London,Morning,Desktop,0
+84631,2119.56,Los Angeles,Afternoon,Tablet,0
+93846,4032.54,New York,Evening,Tablet,0
+94354,2667.19,London,Evening,Tablet,0
+85909,1811.8,Tokyo,Night,Tablet,0
+85551,4312.86,Mumbai,Evening,Desktop,0
+57972,4015.2,London,Afternoon,Tablet,0
+88265,2594.18,Mumbai,Morning,Mobile,0
+54968,1188.02,Dubai,Morning,Tablet,0
+26954,2001.63,Mumbai,Evening,Tablet,0
+20787,2051.5,Dubai,Afternoon,Desktop,0
+97292,2078.43,Los Angeles,Night,Mobile,0
+84317,2302.99,Dubai,Morning,Mobile,0
+58593,433.46,New York,Evening,Desktop,0
+90569,2324.09,Tokyo,Morning,Desktop,0
+38022,2682.44,Tokyo,Night,Tablet,0
+13749,3515.7,Dubai,Afternoon,Mobile,0
+86905,3750.28,London,Evening,Tablet,0
+44532,2500.27,Dubai,Morning,Mobile,0
+19736,3969.64,Moscow,Night,Mobile,0
+83490,3679.48,London,Night,Tablet,0
+32567,22.07,Tokyo,Afternoon,Mobile,0
+14591,1646.97,New York,Morning,Tablet,0
+89715,1387.02,Mumbai,Morning,Desktop,0
+90085,3533.27,Dubai,Afternoon,Tablet,1
+57719,1598.97,New York,Evening,Mobile,0
+16039,1567.4,Dubai,Evening,Mobile,0
+62743,3804.69,Los Angeles,Night,Mobile,0
+55126,4806.6,Los Angeles,Evening,Mobile,0
+83524,3732.46,Los Angeles,Morning,Mobile,0
+55936,2316.18,Los Angeles,Morning,Tablet,0
+59716,845.73,Dubai,Afternoon,Desktop,0
+18186,4834.88,Mumbai,Evening,Tablet,0
+77264,2596.68,Mumbai,Morning,Desktop,0
+94578,2589.56,Dubai,Evening,Desktop,0
+54465,3803.89,New York,Evening,Mobile,0
+32573,129.91,Moscow,Night,Desktop,0
+10015,3991.66,New York,Morning,Desktop,0
+12358,237.37,Los Angeles,Morning,Mobile,0
+83359,3932.16,Mumbai,Night,Mobile,0
+30666,4301.26,Moscow,Evening,Desktop,0
+43564,2759.94,Moscow,Morning,Desktop,1
+38370,3378.82,Mumbai,Evening,Mobile,0
+58865,1890.71,Los Angeles,Evening,Tablet,0
+35406,3240.9,Moscow,Night,Tablet,0
+26614,3343.72,Tokyo,Evening,Tablet,0
+67547,4787.08,Mumbai,Night,Tablet,0
+20451,4436.31,London,Night,Mobile,0
+51507,3894.64,Los Angeles,Afternoon,Mobile,0
+97247,4835.64,Los Angeles,Night,Mobile,0
+67371,3186.33,Tokyo,Afternoon,Mobile,0
+42462,4799.76,Mumbai,Night,Tablet,0
+49925,3698.33,New York,Morning,Mobile,0
+18176,4910.0,Los Angeles,Evening,Tablet,0
+80359,82.91,New York,Evening,Desktop,0
+95482,469.54,Moscow,Afternoon,Mobile,0
+89249,4196.12,Moscow,Morning,Mobile,0
+44584,3061.26,Moscow,Evening,Mobile,0
+37548,2215.93,Tokyo,Morning,Mobile,0
+13943,7.81,Moscow,Afternoon,Tablet,0
+67582,4122.39,New York,Morning,Desktop,0
+65079,1333.19,Moscow,Afternoon,Tablet,0
+65405,3441.02,New York,Afternoon,Tablet,0
+82861,4384.29,New York,Night,Tablet,0
+10646,4911.11,Los Angeles,Evening,Desktop,0
+38738,178.41,Tokyo,Afternoon,Tablet,0
+12151,314.1,Tokyo,Morning,Mobile,0
+61480,3925.79,Mumbai,Morning,Mobile,0
+38037,454.37,Tokyo,Night,Desktop,0
+88546,2094.62,New York,Evening,Mobile,0
+33532,2875.58,New York,Evening,Mobile,0
+38976,4550.69,Mumbai,Afternoon,Mobile,0
+65914,966.75,Los Angeles,Evening,Desktop,0
+22180,3201.8,Tokyo,Night,Desktop,0
+39673,2137.62,Dubai,Night,Tablet,0
+31305,4214.29,Los Angeles,Afternoon,Tablet,0
+60903,295.62,London,Afternoon,Mobile,0
+25356,3484.55,Mumbai,Afternoon,Desktop,0
+65903,3360.11,London,Morning,Desktop,0
+66123,4219.86,Mumbai,Night,Desktop,0
+25658,1118.92,Dubai,Morning,Tablet,0
+79559,287.76,Moscow,Night,Mobile,0
+59466,3465.36,Dubai,Evening,Desktop,0
+77381,3081.9,Tokyo,Night,Tablet,0
+40305,3344.78,Los Angeles,Night,Tablet,0
+14549,2083.75,London,Evening,Mobile,0
+66011,3398.16,New York,Morning,Mobile,0
+97171,2841.56,London,Night,Mobile,0
+54268,3000.31,London,Evening,Tablet,0
+46206,1527.36,Mumbai,Morning,Tablet,0
+72627,1693.24,New York,Evening,Desktop,0
+13603,1604.38,Dubai,Morning,Tablet,0
+80279,1381.67,Mumbai,Evening,Tablet,0
+67563,3036.09,Moscow,Night,Tablet,0
+29115,1110.28,Dubai,Evening,Desktop,0
+23905,793.11,New York,Morning,Desktop,0
+35011,1598.27,Moscow,Morning,Tablet,0
+57881,1940.03,Dubai,Afternoon,Desktop,0
+86723,2836.7,New York,Night,Mobile,0
+25116,3368.88,Los Angeles,Afternoon,Mobile,0
+38157,4761.27,Moscow,Afternoon,Desktop,0
+22768,2379.6,Tokyo,Afternoon,Tablet,0
+52046,3893.08,Mumbai,Evening,Mobile,0
+49850,2285.66,New York,Night,Desktop,0
+81995,3462.85,Los Angeles,Evening,Mobile,0
+31135,4982.57,Los Angeles,Night,Tablet,0
+37651,1954.57,Dubai,Morning,Tablet,0
+54501,2955.47,Dubai,Night,Mobile,0
+41198,4605.64,Tokyo,Morning,Mobile,0
+46755,1040.11,Mumbai,Evening,Desktop,0
+79772,3430.13,Dubai,Evening,Mobile,0
+62033,2704.98,Mumbai,Evening,Tablet,0
+53516,310.18,Mumbai,Afternoon,Mobile,0
+46628,3158.97,Tokyo,Afternoon,Tablet,0
+27471,229.26,Tokyo,Night,Mobile,0
+94490,1585.38,New York,Afternoon,Mobile,0
+61287,580.48,Dubai,Night,Tablet,0
+53183,219.41,Mumbai,Evening,Mobile,0
+52318,1548.51,Los Angeles,Evening,Tablet,0
+24965,3904.72,New York,Evening,Tablet,0
+76035,3668.2,Dubai,Afternoon,Tablet,0
+60949,1997.84,Dubai,Night,Mobile,0
+26408,2541.48,London,Evening,Tablet,0
+71436,2013.57,Tokyo,Evening,Desktop,0
+94488,2659.27,London,Evening,Mobile,0
+40815,2884.42,London,Night,Desktop,0
+77847,3769.78,Moscow,Night,Desktop,0
+25985,4778.08,Tokyo,Night,Tablet,0
+61656,3009.1,Los Angeles,Evening,Desktop,0
+41065,2981.27,Moscow,Morning,Mobile,0
+45444,150.09,Los Angeles,Afternoon,Desktop,0
+32712,4865.33,Moscow,Afternoon,Desktop,0
+57292,689.86,New York,Afternoon,Tablet,0
+27034,3377.35,Moscow,Night,Tablet,0
+10867,441.68,Tokyo,Night,Desktop,0
+24679,4897.71,New York,Afternoon,Mobile,0
+43025,393.23,London,Morning,Tablet,0
+95176,1142.06,Moscow,Afternoon,Tablet,0
+12695,1187.45,Moscow,Afternoon,Mobile,0
+91753,763.23,Mumbai,Evening,Mobile,0
+22476,1704.03,New York,Morning,Mobile,0
+29216,359.67,New York,Afternoon,Mobile,0
+71229,663.06,Dubai,Night,Desktop,0
+86981,1115.65,Los Angeles,Evening,Desktop,0
+13779,3627.63,Moscow,Morning,Tablet,0
+37360,132.45,New York,Morning,Tablet,0
+28444,1403.65,Moscow,Morning,Tablet,0
+37258,2957.61,Los Angeles,Morning,Mobile,0
+77264,1210.22,Mumbai,Evening,Mobile,0
+40022,3148.43,Tokyo,Morning,Desktop,0
+31381,244.04,Tokyo,Afternoon,Tablet,0
+24000,2251.66,London,Afternoon,Tablet,0
+51704,1878.44,New York,Morning,Mobile,0
+78739,1177.37,New York,Afternoon,Mobile,0
+91948,667.27,Dubai,Evening,Tablet,0
+35664,2119.75,London,Night,Desktop,0
+76499,4499.13,Tokyo,Evening,Desktop,0
+52466,2778.49,London,Afternoon,Mobile,0
+38174,69.39,Tokyo,Morning,Tablet,0
+38241,1043.29,New York,Night,Desktop,0
+63201,4379.73,Tokyo,Night,Desktop,0
+14267,2117.12,Tokyo,Evening,Desktop,0
+92362,1686.06,Dubai,Evening,Mobile,0
+22876,4566.2,Mumbai,Evening,Mobile,0
+86434,635.77,Mumbai,Night,Desktop,0
+27895,634.48,New York,Morning,Desktop,0
+74737,793.07,London,Afternoon,Desktop,0
+40014,1450.38,Tokyo,Morning,Desktop,1
+56111,667.74,Dubai,Afternoon,Tablet,0
+24460,1240.66,Mumbai,Evening,Desktop,0
+86871,1130.75,Moscow,Evening,Tablet,0
+69975,4456.25,Moscow,Afternoon,Desktop,0
+24387,4083.73,New York,Night,Tablet,0
+39948,2337.81,Dubai,Morning,Mobile,0
+70527,3210.84,London,Night,Tablet,0
+52748,4240.01,Mumbai,Evening,Mobile,0
+36166,2305.51,Los Angeles,Afternoon,Desktop,0
+62634,3042.81,Moscow,Afternoon,Tablet,0
+57276,2775.12,Moscow,Night,Mobile,0
+88143,373.32,Moscow,Evening,Tablet,0
+81071,1861.55,London,Afternoon,Mobile,0
+75765,4120.6,London,Morning,Mobile,0
+97413,4787.14,London,Afternoon,Tablet,0
+41078,4284.74,Tokyo,Morning,Desktop,0
+43793,3676.34,Moscow,Afternoon,Mobile,0
+71593,397.61,Dubai,Night,Tablet,0
+84537,1398.43,New York,Night,Desktop,0
+62066,454.08,Moscow,Morning,Tablet,0
+31777,4300.29,Tokyo,Morning,Tablet,0
+91942,1915.45,Mumbai,Evening,Mobile,0
+38542,466.22,Dubai,Afternoon,Mobile,0
+34030,1262.72,London,Morning,Desktop,0
+19759,162.98,Dubai,Evening,Mobile,0
+90444,4761.54,Mumbai,Night,Mobile,0
+66908,2685.5,Los Angeles,Afternoon,Desktop,0
+61103,3813.03,Los Angeles,Evening,Tablet,0
+72792,2849.08,Tokyo,Afternoon,Desktop,0
+22479,123.05,Mumbai,Morning,Desktop,0
+36784,95.35,Moscow,Afternoon,Mobile,0
+13711,4085.06,Moscow,Afternoon,Tablet,0
+59523,981.78,Mumbai,Morning,Tablet,0
+86043,2402.67,Dubai,Night,Desktop,0
+39438,2501.35,Dubai,Afternoon,Tablet,0
+40855,44.84,Moscow,Morning,Desktop,0
+13390,4644.49,Tokyo,Morning,Mobile,0
+50098,1376.83,Los Angeles,Evening,Mobile,0
+22228,4439.94,Dubai,Night,Mobile,0
+90129,920.24,Dubai,Afternoon,Mobile,0
+14542,2554.25,New York,Afternoon,Tablet,0
+50150,1905.51,Tokyo,Evening,Desktop,0
+59721,2570.96,Tokyo,Evening,Tablet,0
+99890,1101.09,London,Afternoon,Mobile,0
+10945,4473.56,Mumbai,Night,Desktop,0
+35405,4397.76,Tokyo,Evening,Tablet,0
+78578,1789.18,New York,Morning,Desktop,0
+94985,3207.58,Dubai,Evening,Desktop,0
+79774,2481.8,Dubai,Afternoon,Tablet,0
+63343,4326.24,Moscow,Night,Tablet,0
+80926,4880.66,Tokyo,Evening,Tablet,0
+98268,4939.45,New York,Night,Tablet,0
+83706,1878.89,Mumbai,Evening,Mobile,0
+86304,951.18,New York,Afternoon,Mobile,0
+48186,2520.32,New York,Night,Tablet,0
+90990,2590.06,Mumbai,Morning,Tablet,0
+80203,954.5,New York,Morning,Mobile,0
+21320,802.69,Los Angeles,Afternoon,Desktop,0
+55474,993.69,Mumbai,Evening,Mobile,0
+63060,4316.9,Tokyo,Afternoon,Tablet,0
+89305,3384.04,Moscow,Evening,Desktop,0
+32043,1761.74,London,Afternoon,Desktop,0
+65495,3501.56,Mumbai,Afternoon,Tablet,0
+59690,4055.48,London,Night,Mobile,0
+10529,47.37,Moscow,Afternoon,Tablet,0
+98784,720.23,Los Angeles,Night,Mobile,0
+46932,4174.33,Mumbai,Afternoon,Mobile,1
+93670,4144.38,Tokyo,Night,Tablet,1
+40983,1545.03,New York,Morning,Mobile,0
+85062,379.81,Tokyo,Night,Mobile,0
+67131,2138.84,Mumbai,Night,Mobile,0
+28429,2263.26,Moscow,Morning,Desktop,0
+73980,2313.89,Moscow,Afternoon,Mobile,0
+87003,1342.99,Mumbai,Afternoon,Desktop,0
+83153,3085.37,Dubai,Evening,Desktop,0
+85089,3703.09,London,Evening,Desktop,0
+27740,4152.32,Moscow,Night,Desktop,0
+19186,2248.66,Moscow,Afternoon,Desktop,0
+10834,2621.86,New York,Afternoon,Desktop,0
+74217,2142.72,Dubai,Night,Mobile,0
+37833,1073.29,Tokyo,Night,Desktop,0
+86055,4519.84,Dubai,Afternoon,Tablet,0
+31666,3194.7,Los Angeles,Evening,Tablet,0
+19031,2139.75,Los Angeles,Morning,Tablet,0
+69849,958.13,Moscow,Night,Tablet,0
+64065,2101.29,London,Afternoon,Tablet,0
+72308,2166.88,Los Angeles,Afternoon,Tablet,0
+67422,3106.63,London,Morning,Desktop,0
+34539,1436.04,Dubai,Night,Tablet,0
+46048,2589.33,London,Afternoon,Desktop,0
+74879,3544.28,Mumbai,Afternoon,Desktop,0
+20698,163.99,London,Morning,Mobile,0
+23825,1191.5,Mumbai,Morning,Mobile,0
+61756,2171.92,Mumbai,Night,Desktop,0
+23037,3868.02,Los Angeles,Night,Mobile,0
+78626,4687.56,Dubai,Evening,Tablet,0
+85861,1641.44,Mumbai,Afternoon,Tablet,0
+72304,3324.15,London,Morning,Mobile,0
+97936,4677.09,Los Angeles,Evening,Tablet,0
+64996,3971.33,Los Angeles,Morning,Mobile,0
+72394,2301.96,Mumbai,Night,Mobile,0
+85401,3993.49,New York,Night,Tablet,0
+75492,1207.87,Moscow,Morning,Desktop,0
+60814,4100.6,Los Angeles,Morning,Tablet,0
+33080,575.29,Mumbai,Afternoon,Mobile,0
+59496,4658.87,New York,Morning,Desktop,1
+37174,3241.56,Mumbai,Morning,Desktop,0
+15787,1219.61,Mumbai,Night,Mobile,0
+86476,4906.88,London,Afternoon,Desktop,0
+87330,2275.2,New York,Morning,Mobile,0
+49229,277.8,London,Morning,Desktop,0
+46922,4513.91,London,Evening,Tablet,0
+68615,4951.82,Los Angeles,Afternoon,Desktop,0
+50218,4071.5,New York,Afternoon,Tablet,0
+52798,582.44,Los Angeles,Evening,Desktop,0
+24128,1605.44,Dubai,Afternoon,Mobile,0
+15631,2890.18,Moscow,Evening,Mobile,0
+57583,4842.33,Mumbai,Night,Mobile,0
+12589,331.65,London,Night,Tablet,0
+81029,2312.92,Dubai,Evening,Mobile,0
+25251,3825.7,London,Afternoon,Desktop,0
+76423,3577.67,Moscow,Afternoon,Desktop,0
+56100,2410.89,London,Evening,Mobile,0
+23460,3915.35,Dubai,Evening,Desktop,0
+14486,4585.15,Tokyo,Evening,Mobile,0
+32688,4888.83,London,Night,Desktop,0
+35204,851.27,Tokyo,Evening,Mobile,0
+40158,2326.01,London,Morning,Tablet,0
+81100,3952.16,Moscow,Afternoon,Desktop,0
+62303,2319.13,Tokyo,Afternoon,Mobile,0
+64965,3607.87,London,Night,Desktop,0
+76206,559.25,Mumbai,Morning,Desktop,0
+59744,2252.93,Mumbai,Night,Tablet,0
+14496,4389.88,Dubai,Night,Mobile,0
+94671,3233.68,Mumbai,Evening,Mobile,0
+48389,464.79,Mumbai,Night,Mobile,0
+95166,3873.95,Moscow,Evening,Tablet,1
+26713,2202.19,London,Evening,Mobile,0
+89662,4623.37,London,Afternoon,Desktop,1
+17427,1422.93,Mumbai,Night,Mobile,0
+26948,4915.38,Moscow,Afternoon,Tablet,0
+42564,2181.27,Los Angeles,Afternoon,Mobile,0
+42146,2603.61,Dubai,Morning,Mobile,0
+29121,4743.88,Moscow,Afternoon,Mobile,0
+26768,3468.4,London,Evening,Tablet,0
+76866,2959.88,New York,Morning,Desktop,0
+49185,3856.9,Los Angeles,Morning,Mobile,0
+60334,2383.27,Dubai,Morning,Mobile,0
+55108,3601.82,Dubai,Afternoon,Desktop,0
+92323,520.1,Mumbai,Evening,Mobile,0
+71581,3552.59,Los Angeles,Morning,Mobile,0
+58045,1404.19,New York,Night,Tablet,0
+71340,2391.37,Mumbai,Afternoon,Desktop,0
+11688,3548.43,Mumbai,Afternoon,Tablet,0
+82510,2133.81,Mumbai,Night,Desktop,0
+35852,2680.58,Tokyo,Afternoon,Tablet,0
+20353,1533.04,London,Morning,Mobile,0
+52513,3220.14,Dubai,Night,Mobile,0
+83332,717.25,London,Afternoon,Tablet,0
+77888,463.62,Moscow,Night,Desktop,0
+30116,2935.22,Tokyo,Afternoon,Desktop,0
+31828,537.13,Moscow,Afternoon,Tablet,0
+99739,2147.32,New York,Morning,Mobile,0
+39344,208.98,Mumbai,Night,Tablet,0
+31538,2470.42,London,Night,Desktop,0
+41259,1813.21,Dubai,Evening,Mobile,0
+58247,1691.92,Los Angeles,Night,Mobile,0
+94099,104.3,Moscow,Evening,Desktop,0
+27063,1548.4,Moscow,Afternoon,Desktop,0
+38324,176.98,Tokyo,Evening,Mobile,0
+21149,1690.35,Moscow,Evening,Tablet,0
+98839,1115.32,London,Night,Desktop,0
+41330,1460.35,Los Angeles,Afternoon,Tablet,0
+75868,3170.4,Moscow,Afternoon,Mobile,0
+81384,3600.47,Dubai,Afternoon,Desktop,0
+63824,4659.7,Dubai,Evening,Mobile,0
+33067,2094.9,Los Angeles,Evening,Desktop,0
+62730,3833.18,New York,Afternoon,Tablet,0
+54937,1107.58,Mumbai,Morning,Desktop,0
+94603,931.03,London,Evening,Tablet,0
+67498,3242.71,Tokyo,Afternoon,Mobile,0
+13309,4368.24,London,Morning,Mobile,0
+98279,4624.1,London,Night,Desktop,0
+46849,4447.87,Moscow,Night,Desktop,0
+17864,372.42,New York,Afternoon,Tablet,0
+18321,605.51,Los Angeles,Morning,Desktop,0
+14403,57.72,New York,Morning,Desktop,0
+51918,3514.14,Los Angeles,Morning,Desktop,0
+78864,4757.32,New York,Morning,Desktop,0
+94742,4108.37,New York,Afternoon,Mobile,0
+83947,141.36,Los Angeles,Evening,Desktop,0
+11548,4886.24,Moscow,Morning,Mobile,0
+11308,3115.53,Moscow,Night,Desktop,0
+78191,3409.37,Mumbai,Afternoon,Tablet,0
+83484,3188.93,Tokyo,Morning,Tablet,0
+11557,1120.04,Mumbai,Afternoon,Tablet,0
+71197,2835.47,Dubai,Afternoon,Mobile,0
+80552,987.95,Mumbai,Afternoon,Tablet,0
+56900,4584.43,Tokyo,Night,Tablet,0
+35039,4002.16,Mumbai,Morning,Desktop,0
+75332,3047.74,New York,Evening,Desktop,0
+90764,2223.49,Tokyo,Night,Mobile,0
+34256,3881.71,Moscow,Night,Tablet,0
+71006,2113.73,Los Angeles,Evening,Tablet,0
+39023,3649.67,Los Angeles,Night,Tablet,0
+19910,423.64,Dubai,Afternoon,Desktop,0
+56839,2400.9,Dubai,Afternoon,Mobile,0
+77619,2342.29,Los Angeles,Morning,Desktop,0
+98054,2908.17,Dubai,Evening,Tablet,0
+56669,3763.12,London,Afternoon,Desktop,0
+55890,4803.06,Tokyo,Evening,Mobile,0
+58233,13.08,Dubai,Evening,Mobile,0
+87731,1847.88,Los Angeles,Afternoon,Tablet,0
+24970,2122.49,London,Night,Desktop,0
+14288,1624.54,Moscow,Night,Mobile,0
+10169,1718.8,New York,Morning,Desktop,0
+52423,3188.55,Moscow,Night,Tablet,0
+65790,1593.19,Moscow,Evening,Tablet,1
+87367,3990.61,New York,Morning,Desktop,0
+14908,889.28,London,Morning,Desktop,0
+17882,3034.98,New York,Night,Tablet,0
+44110,2837.59,Dubai,Afternoon,Mobile,0
+66841,2476.28,London,Night,Tablet,0
+62731,4994.99,New York,Morning,Tablet,0
+13895,2511.35,Tokyo,Night,Mobile,0
+67022,2176.21,Tokyo,Evening,Tablet,0
+93111,1503.07,Tokyo,Afternoon,Desktop,1
+94619,1274.64,Dubai,Night,Desktop,0
+40515,2964.1,Mumbai,Evening,Desktop,0
+33316,3289.28,Los Angeles,Evening,Mobile,0
+33762,604.48,Los Angeles,Morning,Mobile,0
+47642,1135.45,Moscow,Evening,Tablet,0
+62668,2042.21,New York,Evening,Desktop,0
+45179,4260.48,Los Angeles,Morning,Mobile,0
+31531,1498.81,Tokyo,Afternoon,Mobile,0
+53918,1233.24,Dubai,Afternoon,Desktop,0
+66187,2406.7,London,Afternoon,Mobile,0
+57450,3391.6,Tokyo,Morning,Desktop,0
+31771,1278.71,Tokyo,Evening,Tablet,0
+89871,2267.24,Moscow,Morning,Tablet,0
+64942,493.27,Dubai,Morning,Tablet,0
+23672,1528.75,Dubai,Morning,Tablet,0
+19443,3471.09,Dubai,Evening,Mobile,0
+44468,4839.43,New York,Afternoon,Desktop,0
+69899,816.9,Los Angeles,Evening,Desktop,1
+54455,2702.93,Dubai,Night,Tablet,0
+52722,2806.96,Tokyo,Morning,Tablet,0
+23632,1493.31,Tokyo,Evening,Mobile,0
+58405,1244.07,Tokyo,Afternoon,Tablet,0
+93707,3906.23,Mumbai,Evening,Desktop,0
+52655,2059.82,Los Angeles,Night,Mobile,0
+69467,4164.25,Tokyo,Afternoon,Desktop,0
+48356,507.56,New York,Night,Tablet,0
+81830,2333.57,New York,Morning,Tablet,0
+20982,4879.49,New York,Night,Mobile,0
+74452,3480.28,Mumbai,Evening,Tablet,0
+93751,2596.07,Mumbai,Night,Mobile,0
+62139,2689.96,Dubai,Night,Tablet,0
+29451,1705.78,Mumbai,Night,Mobile,0
+24758,4999.05,Moscow,Afternoon,Mobile,0
+31866,3019.92,New York,Evening,Mobile,0
+16470,276.71,Dubai,Night,Mobile,0
+39432,4114.12,New York,Morning,Desktop,0
+79177,230.27,New York,Afternoon,Tablet,0
+70396,396.81,New York,Evening,Desktop,0
+38701,1773.53,Moscow,Evening,Desktop,0
+45419,1151.1,Moscow,Evening,Desktop,1
+96342,2494.88,New York,Night,Tablet,0
+84252,4687.21,New York,Night,Mobile,0
+36157,2504.96,Tokyo,Afternoon,Tablet,0
+54462,2836.93,Tokyo,Afternoon,Mobile,0
+81941,96.38,Mumbai,Night,Tablet,0
+26880,4951.59,Tokyo,Evening,Desktop,0
+89353,3546.81,New York,Evening,Desktop,0
+65590,4417.62,London,Morning,Mobile,0
+91855,2835.44,Mumbai,Evening,Mobile,1
+29977,3739.19,New York,Morning,Tablet,0
+10936,4953.82,Tokyo,Morning,Mobile,0
+37770,3646.79,New York,Afternoon,Desktop,0
+49027,1409.58,Moscow,Morning,Tablet,0
+21789,1865.62,London,Evening,Desktop,0
+29730,4154.07,Dubai,Night,Tablet,0
+90408,3348.88,Los Angeles,Night,Mobile,0
+91557,4620.69,Mumbai,Afternoon,Tablet,0
+49054,2250.74,Los Angeles,Morning,Mobile,0
+15035,4940.68,New York,Night,Mobile,0
+22708,3085.2,Tokyo,Evening,Tablet,0
+91698,4184.1,New York,Evening,Mobile,0
+72575,1538.89,Moscow,Night,Desktop,0
+75865,2306.87,Dubai,Evening,Tablet,0
+73378,441.97,London,Night,Tablet,0
+55240,3719.26,Moscow,Night,Desktop,0
+44238,2186.0,Los Angeles,Afternoon,Mobile,0
+59590,4891.77,London,Afternoon,Mobile,0
+16427,485.18,Dubai,Morning,Desktop,0
+23940,4950.08,Mumbai,Morning,Desktop,0
+61003,2892.06,Los Angeles,Morning,Mobile,0
+48269,2087.84,Mumbai,Afternoon,Tablet,0
+18288,3590.29,Dubai,Evening,Desktop,0
+56664,635.95,Los Angeles,Night,Mobile,0
+28251,2166.27,Los Angeles,Morning,Desktop,0
+13175,1734.34,New York,Afternoon,Mobile,0
+28939,2821.82,Los Angeles,Night,Tablet,0
+25641,3746.22,Dubai,Morning,Desktop,0
+60224,1583.23,Dubai,Night,Mobile,0
+20727,1149.67,Mumbai,Night,Mobile,0
+34925,3864.62,Los Angeles,Night,Desktop,0
+94153,3921.7,Mumbai,Night,Tablet,1
+94535,2977.91,Mumbai,Morning,Tablet,0
+87983,3550.78,Mumbai,Evening,Desktop,0
+32651,2662.88,Moscow,Afternoon,Tablet,0
+34518,3311.69,Mumbai,Morning,Tablet,0
+79911,767.29,New York,Morning,Mobile,1
+29071,2027.09,Moscow,Night,Tablet,0
+16870,1198.33,New York,Night,Tablet,1
+80002,2732.94,Moscow,Evening,Mobile,0
+10212,527.89,Tokyo,Morning,Mobile,0
+99803,1821.87,New York,Night,Tablet,0
+78090,308.63,New York,Evening,Tablet,0
+55187,1332.67,Mumbai,Night,Mobile,0
+93736,1809.08,Dubai,Morning,Desktop,0
+82478,127.09,London,Night,Mobile,0
+75881,3987.59,Moscow,Night,Mobile,0
+28014,1038.74,London,Night,Tablet,0
+19267,2034.97,Los Angeles,Morning,Mobile,0
+40133,2810.99,New York,Morning,Tablet,0
+26771,961.61,Dubai,Afternoon,Mobile,0
+81186,2979.67,New York,Night,Desktop,0
+58468,1610.68,London,Morning,Mobile,0
+82298,883.3,Los Angeles,Evening,Tablet,0
+60198,1459.2,Mumbai,Evening,Tablet,0
+40313,1863.46,Dubai,Morning,Tablet,0
+26469,2447.47,Moscow,Afternoon,Mobile,0
+76430,2235.85,Mumbai,Night,Tablet,0
+44488,2712.65,Dubai,Afternoon,Desktop,0
+12826,4664.87,Moscow,Night,Desktop,0
+68430,3218.29,Tokyo,Night,Desktop,0
+69025,2469.53,Los Angeles,Afternoon,Desktop,0
+52157,636.61,Dubai,Afternoon,Desktop,0
+43278,1909.38,Moscow,Night,Desktop,0
+17211,2898.91,Dubai,Afternoon,Desktop,0
+57342,462.58,Dubai,Afternoon,Tablet,0
+33670,4009.43,Los Angeles,Afternoon,Mobile,0
+86905,165.83,Moscow,Afternoon,Mobile,0
+52391,753.82,Dubai,Night,Mobile,0
+28918,2377.38,Los Angeles,Evening,Mobile,0
+90720,2229.13,New York,Afternoon,Mobile,0
+84221,4962.99,New York,Afternoon,Tablet,0
+47262,2516.06,Moscow,Afternoon,Desktop,0
+20663,2360.93,Los Angeles,Night,Desktop,0
+86847,1232.83,Dubai,Morning,Mobile,0
+40951,2124.68,Tokyo,Afternoon,Mobile,0
+16109,2193.2,Tokyo,Evening,Mobile,0
+43271,4949.23,Moscow,Morning,Desktop,0
+51156,1768.9,Mumbai,Morning,Desktop,0
+67743,4270.2,Dubai,Night,Desktop,0
+39324,2635.64,Moscow,Night,Mobile,0
+16082,1725.54,Tokyo,Evening,Tablet,0
+78679,1884.3,London,Afternoon,Desktop,0
+12390,4312.62,Moscow,Morning,Desktop,0
+41291,2707.32,Los Angeles,Morning,Tablet,0
+44895,3120.16,Moscow,Afternoon,Tablet,0
+27110,1477.05,Dubai,Afternoon,Tablet,0
+58080,3321.54,Los Angeles,Evening,Desktop,0
+18252,3552.97,London,Evening,Desktop,0
+86513,4058.84,New York,Evening,Mobile,0
+44936,584.91,Los Angeles,Night,Tablet,0
+26513,2138.56,New York,Afternoon,Tablet,0
+57763,1219.4,Mumbai,Evening,Mobile,0
+70640,4924.35,New York,Morning,Mobile,0
+68279,1225.15,Tokyo,Morning,Mobile,0
+87306,3234.2,New York,Morning,Desktop,0
+26280,1655.99,Moscow,Evening,Desktop,0
+49689,3321.52,Moscow,Evening,Desktop,0
+35522,749.99,London,Morning,Mobile,0
+88944,3081.99,Tokyo,Evening,Mobile,0
+21746,1110.59,Mumbai,Afternoon,Tablet,0
+37587,4461.76,London,Evening,Desktop,0
+42570,566.27,Moscow,Afternoon,Mobile,0
+51968,4000.71,Dubai,Night,Mobile,0
+84124,3301.92,London,Night,Tablet,0
+92581,4841.35,Dubai,Afternoon,Desktop,0
+54922,2560.78,London,Morning,Tablet,0
+77932,2011.11,Tokyo,Evening,Mobile,0
+30622,1973.03,Tokyo,Afternoon,Desktop,0
+17053,3373.25,Tokyo,Morning,Desktop,0
+79814,295.13,Dubai,Afternoon,Desktop,0
+78539,1807.83,Dubai,Afternoon,Mobile,0
+74862,1544.47,Moscow,Morning,Desktop,0
+25976,999.28,New York,Afternoon,Tablet,0
+94276,315.36,Los Angeles,Evening,Mobile,0
+74953,314.61,Dubai,Morning,Mobile,0
+60951,1696.83,Tokyo,Night,Tablet,0
+30133,104.58,Dubai,Night,Tablet,0
+30912,3434.26,Moscow,Evening,Tablet,0
+53067,4450.62,Mumbai,Night,Desktop,0
+77680,234.46,Tokyo,Evening,Tablet,0
+38641,2064.31,Mumbai,Night,Mobile,0
+34203,2106.32,Mumbai,Morning,Tablet,0
+57923,3593.19,Moscow,Night,Mobile,0
+17684,4084.58,New York,Morning,Mobile,0
+78458,2235.31,Tokyo,Morning,Desktop,0
+91476,1799.29,New York,Night,Mobile,0
+92698,2497.63,Tokyo,Afternoon,Mobile,1
+93635,2118.4,Tokyo,Evening,Mobile,0
+70667,815.99,Tokyo,Afternoon,Mobile,0
+12918,445.11,Los Angeles,Evening,Desktop,0
+36368,1821.39,London,Night,Desktop,0
+31658,3415.6,New York,Afternoon,Tablet,0
+37862,2529.33,Moscow,Morning,Mobile,0
+89724,2402.23,Mumbai,Morning,Mobile,0
+73077,3841.64,Dubai,Night,Tablet,0
+78741,248.21,Los Angeles,Afternoon,Tablet,0
+52482,4268.3,New York,Morning,Tablet,0
+81344,4701.28,New York,Evening,Tablet,0
+29026,685.52,London,Night,Mobile,0
+68424,1070.56,Moscow,Afternoon,Tablet,0
+41702,3048.36,New York,Evening,Mobile,0
+26627,4306.45,Los Angeles,Afternoon,Desktop,0
+38415,1741.57,Tokyo,Night,Desktop,0
+37858,1145.29,London,Morning,Tablet,0
+68988,750.98,Mumbai,Night,Mobile,0
+46497,840.77,Moscow,Afternoon,Tablet,0
+46544,545.98,Mumbai,Evening,Desktop,0
+25956,3961.46,London,Night,Tablet,0
+17112,405.61,Mumbai,Morning,Mobile,0
+20465,4667.88,London,Morning,Mobile,0
+12755,4306.42,Dubai,Morning,Desktop,0
+31925,584.72,Moscow,Evening,Desktop,0
+12814,274.65,Los Angeles,Morning,Tablet,0
+20158,3848.2,Dubai,Evening,Tablet,0
+96385,74.64,Dubai,Evening,Tablet,0
+72984,4461.26,Mumbai,Morning,Tablet,0
+31128,4645.18,Dubai,Night,Mobile,0
+53319,4046.43,Los Angeles,Evening,Mobile,0
+13536,471.22,Mumbai,Evening,Desktop,0
+37780,4118.71,Mumbai,Evening,Tablet,0
+75863,4061.03,Moscow,Evening,Tablet,0
+72851,950.48,Mumbai,Evening,Tablet,0
+31179,195.07,Mumbai,Morning,Tablet,0
+96098,417.39,Dubai,Afternoon,Desktop,0
+40917,4586.38,Mumbai,Night,Tablet,0
+58115,2343.77,Dubai,Night,Tablet,0
+57694,252.27,Tokyo,Evening,Tablet,0
+89792,3083.26,London,Morning,Desktop,0
+34660,1965.73,London,Evening,Desktop,0
+74949,4130.73,Moscow,Evening,Mobile,0
+27009,915.24,New York,Evening,Tablet,0
+64078,2863.38,Los Angeles,Night,Tablet,1
+11812,4056.71,Mumbai,Night,Desktop,0
+15704,637.75,Los Angeles,Afternoon,Desktop,0
+22546,1182.94,Mumbai,Evening,Desktop,0
+48072,3229.91,New York,Morning,Desktop,0
+83212,2648.08,Mumbai,Night,Tablet,0
+23077,93.65,Moscow,Evening,Tablet,0
+54766,4701.6,Moscow,Evening,Mobile,0
+38774,4294.31,Dubai,Afternoon,Desktop,0
+21059,144.99,London,Morning,Desktop,0
+90503,2320.28,New York,Afternoon,Tablet,0
+45196,4824.22,Los Angeles,Afternoon,Tablet,0
+43147,4360.98,Moscow,Morning,Tablet,0
+85858,2018.4,Dubai,Evening,Desktop,0
+58200,4281.31,London,Evening,Mobile,0
+90169,4724.07,Mumbai,Afternoon,Tablet,0
+15983,4611.88,Moscow,Afternoon,Tablet,0
+95235,1187.44,Moscow,Evening,Tablet,0
+61351,4132.63,Dubai,Evening,Desktop,0
+20299,2870.31,Mumbai,Afternoon,Tablet,0
+29577,1373.46,Mumbai,Morning,Desktop,0
+43438,3783.12,Moscow,Afternoon,Tablet,0
+54131,2195.55,Dubai,Night,Tablet,0
+60673,2325.83,London,Morning,Mobile,0
+52626,1925.39,London,Morning,Mobile,0
+26899,4116.24,Tokyo,Night,Mobile,0
+70708,137.31,Moscow,Morning,Desktop,1
+23969,2237.32,Tokyo,Night,Tablet,0
+57127,4750.04,Los Angeles,Morning,Tablet,0
+35354,1042.32,Dubai,Morning,Mobile,0
+12321,3208.21,New York,Night,Tablet,0
+91094,1188.12,Mumbai,Night,Desktop,0
+67113,4530.73,Mumbai,Afternoon,Mobile,0
+15083,1024.64,London,Afternoon,Tablet,0
+22218,638.41,Moscow,Night,Tablet,0
+45963,1178.54,Tokyo,Afternoon,Tablet,0
+17732,3999.98,Tokyo,Evening,Tablet,0
+98456,3813.02,New York,Night,Desktop,0
+41298,4462.49,Dubai,Evening,Desktop,0
+77171,1066.88,Mumbai,Afternoon,Tablet,0
+22223,2247.86,New York,Night,Mobile,0
+10068,1465.44,Mumbai,Morning,Tablet,0
+49240,3470.06,Los Angeles,Evening,Desktop,0
+23006,4211.69,London,Afternoon,Desktop,0
+85977,880.8,Dubai,Night,Desktop,0
+70775,1616.06,Dubai,Night,Mobile,0
+31513,2409.28,Los Angeles,Morning,Desktop,0
+22313,1338.86,Dubai,Afternoon,Desktop,0
+99945,3363.18,Dubai,Evening,Tablet,0
+17362,1959.16,Mumbai,Morning,Tablet,0
+42140,3062.08,New York,Morning,Tablet,0
+29315,4996.92,Dubai,Afternoon,Desktop,0
+10965,1881.5,Tokyo,Night,Desktop,0
+80063,2125.52,London,Morning,Mobile,0
+55844,3110.94,Los Angeles,Morning,Mobile,0
+24500,2199.23,London,Morning,Mobile,1
+45810,2967.9,Dubai,Afternoon,Tablet,0
+54941,2384.39,Los Angeles,Morning,Desktop,0
+76024,1189.25,London,Evening,Tablet,0
+84927,2277.54,Tokyo,Night,Desktop,0
+35732,4019.65,Moscow,Night,Mobile,0
+92409,4095.4,Dubai,Morning,Desktop,0
+57572,517.82,Mumbai,Night,Mobile,0
+80917,4583.23,London,Night,Mobile,0
+89033,862.4,Los Angeles,Night,Desktop,0
+56765,3147.11,Mumbai,Afternoon,Desktop,0
+83215,3692.35,Mumbai,Evening,Desktop,0
+23714,523.5,Los Angeles,Evening,Mobile,0
+48303,3961.3,Dubai,Night,Tablet,0
+77024,2165.91,Moscow,Afternoon,Mobile,0
+53795,512.42,Mumbai,Evening,Tablet,0
+43146,3420.02,Mumbai,Evening,Mobile,0
+15830,3547.71,Tokyo,Night,Desktop,0
+55373,3454.71,Mumbai,Afternoon,Tablet,0
+21143,1471.91,Los Angeles,Evening,Desktop,0
+14104,2138.29,Dubai,Afternoon,Mobile,0
+91325,2405.56,London,Afternoon,Desktop,0
+13181,4938.07,Dubai,Evening,Tablet,0
+56403,3205.48,New York,Evening,Mobile,0
+97515,2640.67,Moscow,Afternoon,Mobile,0
+58883,811.09,London,Afternoon,Desktop,0
+76276,3541.35,Los Angeles,Night,Desktop,0
+37370,1340.72,London,Evening,Desktop,0
+31482,3150.77,New York,Morning,Desktop,0
+29581,1497.71,London,Evening,Tablet,0
+48207,4614.28,Tokyo,Evening,Mobile,0
+41927,3062.14,London,Morning,Desktop,0
+99483,2875.49,Dubai,Evening,Desktop,0
+44031,3934.66,Dubai,Afternoon,Desktop,0
+87801,3364.59,London,Evening,Tablet,0
+70272,3316.32,Los Angeles,Morning,Tablet,0
+65838,3339.55,Tokyo,Evening,Desktop,0
+29123,1413.04,Dubai,Evening,Desktop,0
+73760,427.48,Mumbai,Afternoon,Desktop,0
+50750,3721.41,Moscow,Evening,Desktop,0
+88549,1865.86,Dubai,Evening,Tablet,0
+51097,2751.72,Mumbai,Night,Mobile,0
+58058,1592.35,Moscow,Morning,Mobile,0
+58237,424.55,New York,Afternoon,Tablet,0
+31008,1758.35,Mumbai,Evening,Tablet,0
+87222,4661.62,London,Night,Tablet,0
+16506,3999.04,Moscow,Evening,Mobile,0
+25393,2268.53,Tokyo,Afternoon,Desktop,0
+91671,2130.07,New York,Afternoon,Tablet,0
+37223,130.63,London,Afternoon,Tablet,0
+73682,1260.51,Moscow,Morning,Tablet,0
+88117,4102.05,Moscow,Night,Mobile,0
+98624,2714.03,Mumbai,Evening,Tablet,0
+13686,2571.59,London,Night,Tablet,0
+45174,4302.79,London,Evening,Mobile,0
+35381,3186.59,New York,Morning,Desktop,0
+53769,1952.26,London,Night,Tablet,0
+30257,1149.72,London,Morning,Tablet,0
+42099,482.86,New York,Morning,Tablet,0
+41455,158.89,Los Angeles,Morning,Mobile,0
+45144,701.2,New York,Morning,Tablet,0
+86594,173.4,New York,Evening,Desktop,0
+97615,2676.36,New York,Afternoon,Tablet,0
+56140,3658.63,New York,Afternoon,Mobile,0
+31292,2448.53,Moscow,Morning,Desktop,0
+76697,4521.31,New York,Morning,Mobile,0
+81919,1613.47,Tokyo,Evening,Desktop,0
+30748,3823.54,Mumbai,Evening,Mobile,0
+99033,3753.29,Dubai,Morning,Tablet,0
+23082,145.62,London,Afternoon,Mobile,0
+35643,3665.17,London,Evening,Desktop,0
+75535,1776.91,London,Evening,Tablet,0
+77044,2336.01,Tokyo,Evening,Desktop,0
+54841,4893.61,Tokyo,Afternoon,Tablet,0
+49019,1662.0,Dubai,Evening,Tablet,0
+15926,4355.13,Moscow,Afternoon,Tablet,0
+78951,1041.74,Los Angeles,Evening,Mobile,0
+77791,4039.35,Tokyo,Evening,Tablet,0
+51002,3171.29,Los Angeles,Night,Tablet,0
+56937,4505.2,New York,Evening,Desktop,0
+89976,1865.34,New York,Night,Mobile,0
+70591,4175.08,Tokyo,Evening,Tablet,0
+48275,3493.17,Mumbai,Morning,Tablet,0
+31695,114.22,Mumbai,Morning,Desktop,0
+61021,3909.68,Los Angeles,Morning,Mobile,0
+56055,2316.38,Dubai,Afternoon,Desktop,0
+10829,367.87,Dubai,Afternoon,Desktop,0
+68838,2467.69,Moscow,Night,Desktop,0
+54492,3329.72,Mumbai,Night,Desktop,0
+22604,3922.91,Dubai,Afternoon,Mobile,0
+11257,2350.7,New York,Afternoon,Tablet,0
+73258,526.9,New York,Afternoon,Mobile,0
+22221,2319.29,New York,Morning,Tablet,0
+39063,2304.02,London,Afternoon,Desktop,0
+62119,3660.96,Mumbai,Afternoon,Desktop,0
+69244,2977.76,Moscow,Afternoon,Mobile,0
+85087,3697.32,Mumbai,Morning,Mobile,0
+38350,676.73,Los Angeles,Morning,Desktop,0
+96347,2576.11,Moscow,Morning,Desktop,0
+96818,2696.05,Moscow,Evening,Mobile,0
+12187,3936.93,London,Morning,Desktop,0
+40648,2821.49,Mumbai,Evening,Desktop,1
+30510,1506.67,Dubai,Night,Tablet,0
+23474,2786.68,London,Night,Tablet,1
+41934,3204.02,Los Angeles,Night,Tablet,0
+25358,1561.46,Moscow,Evening,Mobile,0
+19354,2365.65,New York,Evening,Mobile,0
+21943,4926.3,London,Evening,Tablet,0
+81755,3843.22,Moscow,Night,Mobile,0
+80754,4266.55,Los Angeles,Evening,Mobile,0
+68191,4164.44,London,Afternoon,Mobile,0
+80332,3514.53,Moscow,Night,Mobile,0
+22131,4894.44,London,Evening,Desktop,0
+76942,827.76,New York,Afternoon,Tablet,0
+73014,4472.76,Tokyo,Evening,Tablet,0
+57575,3141.67,Mumbai,Night,Mobile,0
+16235,1199.11,Dubai,Evening,Tablet,0
+58093,3413.6,Los Angeles,Morning,Mobile,0
+45063,2221.14,Dubai,Night,Tablet,0
+56134,3225.45,London,Morning,Tablet,0
+74616,1510.48,Moscow,Evening,Tablet,0
+85731,2337.03,Los Angeles,Morning,Tablet,0
+23821,910.18,Tokyo,Evening,Mobile,0
+14787,813.51,New York,Night,Tablet,0
+15690,926.42,London,Morning,Tablet,0
+57427,3399.62,Moscow,Afternoon,Desktop,0
+44048,2130.13,Dubai,Night,Mobile,0
+70182,4013.5,New York,Morning,Desktop,0
+60984,4756.89,New York,Night,Desktop,0
+43569,4847.85,Moscow,Morning,Tablet,0
+47260,442.21,Dubai,Night,Tablet,0
+62297,658.13,Dubai,Afternoon,Desktop,0
+21741,1961.67,Los Angeles,Evening,Mobile,0
+77500,868.6,Dubai,Evening,Tablet,0
+89713,659.57,Dubai,Morning,Desktop,0
+59368,1263.07,Los Angeles,Night,Tablet,0
+88907,3845.48,London,Morning,Desktop,0
+96882,900.24,London,Afternoon,Mobile,0
+93355,612.37,Mumbai,Morning,Mobile,0
+38220,1776.78,Tokyo,Evening,Mobile,0
+25843,305.62,Moscow,Morning,Mobile,0
+10545,3536.31,Moscow,Evening,Tablet,0
+80453,1868.22,New York,Morning,Mobile,0
+68282,1414.34,Moscow,Night,Desktop,0
+48098,4094.44,New York,Afternoon,Mobile,0
+30494,2524.04,Tokyo,Night,Tablet,0
+83538,1260.34,Moscow,Morning,Mobile,0
+29862,2951.72,Mumbai,Afternoon,Tablet,0
+51812,4684.04,London,Evening,Tablet,0
+84834,4927.97,Tokyo,Afternoon,Desktop,0
+67945,4845.0,London,Evening,Tablet,0
+94791,2605.67,Mumbai,Morning,Mobile,0
+52995,4594.73,Mumbai,Evening,Tablet,0
+38414,3761.01,Moscow,Afternoon,Desktop,0
+96986,886.06,Tokyo,Afternoon,Mobile,0
+94593,3865.54,Moscow,Night,Desktop,0
+90565,3067.54,Moscow,Evening,Desktop,0
+11114,4587.36,Los Angeles,Afternoon,Tablet,0
+80387,2741.12,Los Angeles,Morning,Mobile,0
+21260,3956.3,Tokyo,Morning,Desktop,0
+35007,4283.06,Los Angeles,Night,Tablet,0
+26106,4153.05,Mumbai,Morning,Tablet,0
+16814,2457.57,Mumbai,Morning,Mobile,0
+37582,4769.4,New York,Evening,Mobile,0
+51612,2400.17,Dubai,Night,Desktop,0
+85983,4142.43,Tokyo,Afternoon,Desktop,0
+25296,3123.89,London,Evening,Tablet,0
+34733,792.35,London,Evening,Desktop,0
+28394,4253.96,New York,Afternoon,Tablet,0
+23830,1344.98,Los Angeles,Night,Desktop,0
+14371,1927.86,Moscow,Morning,Mobile,0
+63997,3569.55,Moscow,Afternoon,Mobile,0
+94341,2365.99,Los Angeles,Evening,Tablet,0
+53306,1882.39,Moscow,Afternoon,Desktop,0
+54731,1492.77,Tokyo,Night,Mobile,0
+11853,2541.12,Moscow,Night,Desktop,0
+52716,2908.64,London,Evening,Mobile,0
+14010,976.96,Mumbai,Morning,Mobile,0
+34074,4667.51,New York,Afternoon,Tablet,0
+59242,4189.12,Tokyo,Evening,Mobile,0
+30993,3328.47,Mumbai,Afternoon,Tablet,0
+57392,3510.03,Dubai,Night,Mobile,0
+71052,683.51,Moscow,Evening,Tablet,0
+44009,2321.44,London,Night,Tablet,0
+54917,2676.82,Moscow,Morning,Mobile,0
+55104,781.9,New York,Night,Mobile,0
+11419,3267.77,Tokyo,Afternoon,Mobile,0
+34980,4646.19,Mumbai,Evening,Mobile,0
+12258,102.01,Mumbai,Evening,Tablet,0
+76354,1500.73,Tokyo,Afternoon,Mobile,1
+60458,3603.67,Los Angeles,Morning,Tablet,0
+54193,2537.8,Los Angeles,Evening,Desktop,0
+41362,1553.78,Mumbai,Morning,Desktop,0
+87216,2480.92,Los Angeles,Evening,Tablet,0
+19657,1026.59,Moscow,Evening,Desktop,0
+37731,285.21,Los Angeles,Morning,Mobile,0
+50679,47.54,New York,Afternoon,Mobile,0
+70413,1964.03,Mumbai,Evening,Desktop,0
+15766,516.89,Mumbai,Night,Tablet,0
+96019,3374.4,London,Morning,Tablet,0
+23855,1851.07,Mumbai,Night,Mobile,0
+63216,298.05,Moscow,Evening,Mobile,0
+70342,3388.6,Tokyo,Evening,Tablet,0
+99091,551.53,Los Angeles,Afternoon,Mobile,0
+24618,9.46,Moscow,Night,Mobile,0
+36606,4155.14,London,Evening,Desktop,0
+35504,666.79,New York,Afternoon,Tablet,0
+70085,794.81,Los Angeles,Evening,Mobile,0
+36083,3234.97,Mumbai,Night,Desktop,0
+51336,3368.0,London,Afternoon,Mobile,0
+93640,3745.08,London,Afternoon,Mobile,0
+98713,1355.7,Mumbai,Night,Mobile,0
+31826,4270.76,Moscow,Afternoon,Tablet,0
+57396,1409.86,London,Evening,Tablet,0
+73613,2262.17,London,Afternoon,Desktop,0
+72101,553.67,Los Angeles,Evening,Tablet,0
+70936,812.57,Los Angeles,Night,Tablet,0
+79485,4638.12,Moscow,Afternoon,Mobile,0
+62539,441.69,Mumbai,Afternoon,Mobile,0
+39396,4201.86,Moscow,Evening,Mobile,0
+38306,1368.63,Mumbai,Night,Mobile,0
+12390,352.98,London,Evening,Mobile,0
+35946,4316.4,Los Angeles,Morning,Tablet,0
+38213,3717.73,Mumbai,Night,Desktop,0
+92168,1096.28,Moscow,Morning,Desktop,0
+39893,4867.89,Los Angeles,Night,Mobile,0
+92398,662.68,Tokyo,Afternoon,Desktop,0
+95975,33.84,London,Morning,Desktop,0
+84823,3532.13,Mumbai,Evening,Tablet,0
+93919,1312.56,Los Angeles,Evening,Mobile,0
+98637,4919.21,Mumbai,Night,Desktop,0
+38701,2617.97,Dubai,Evening,Tablet,0
+74281,786.54,Moscow,Night,Mobile,0
+12006,2778.29,London,Evening,Tablet,0
+57451,28.73,Tokyo,Night,Desktop,0
+45295,2777.35,Tokyo,Night,Mobile,0
+86371,3589.34,London,Morning,Desktop,0
+38847,4797.63,Tokyo,Night,Mobile,0
+70374,1197.77,Los Angeles,Afternoon,Tablet,1
+61428,1878.5,London,Afternoon,Desktop,0
+40501,2052.13,Mumbai,Morning,Tablet,0
+45163,2256.04,Dubai,Morning,Tablet,1
+45745,3985.53,Dubai,Morning,Tablet,0
+82783,4177.56,Moscow,Night,Mobile,0
+48487,2711.06,Dubai,Night,Mobile,0
+34768,4967.56,Tokyo,Morning,Tablet,0
+48042,846.35,Moscow,Night,Tablet,0
+20934,3224.25,London,Afternoon,Mobile,0
+24847,4976.57,Dubai,Afternoon,Mobile,0
+97434,3941.1,Mumbai,Morning,Mobile,0
+25807,4798.12,London,Night,Mobile,0
+92347,1332.31,New York,Night,Desktop,0
+86283,2212.31,Los Angeles,Afternoon,Desktop,0
+96590,2614.86,Tokyo,Afternoon,Desktop,0
+88286,796.32,Dubai,Evening,Desktop,0
+29569,62.27,Dubai,Morning,Desktop,0
+46202,4111.22,London,Morning,Mobile,0
+41213,4361.46,Moscow,Night,Mobile,0
+81619,1794.67,Tokyo,Afternoon,Mobile,0
+76598,792.52,Moscow,Morning,Tablet,0
+47864,1623.95,Dubai,Evening,Mobile,0
+73246,2335.06,Los Angeles,Morning,Mobile,0
+53489,4311.94,London,Morning,Tablet,0
+30748,1651.01,Moscow,Morning,Mobile,0
+32693,3986.06,London,Morning,Desktop,0
+38298,2149.07,Moscow,Afternoon,Tablet,0
+43271,2781.45,London,Afternoon,Desktop,0
+77640,2826.45,London,Night,Desktop,0
+85603,872.64,New York,Evening,Tablet,0
+28725,3585.58,New York,Evening,Desktop,0
+38320,3633.0,London,Morning,Mobile,0
+95904,3051.63,New York,Night,Tablet,0
+47688,442.81,Mumbai,Morning,Desktop,0
+22333,2798.46,Los Angeles,Afternoon,Mobile,0
